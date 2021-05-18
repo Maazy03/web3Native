@@ -1,0 +1,201 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#141414",
+        "display": "flex",
+        "flexDirection": "column",
+        "height": "100%",
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "marginBottom": 0,
+          "width": 258,
+        },
+      ]
+    }
+    width={258}
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "column",
+            "justifyContent": "center",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#2FEAC6",
+              "fontFamily": "Rubik-Bold",
+              "fontSize": 32,
+              "fontStyle": "normal",
+              "fontWeight": "500",
+              "height": 50,
+              "letterSpacing": 1,
+              "lineHeight": 42,
+              "marginTop": 10,
+              "textAlign": "center",
+            },
+          ]
+        }
+      >
+        Great Choice!
+      </Text>
+    </View>
+  </View>
+  <View
+    mgBottom={65}
+    style={
+      Array [
+        Object {
+          "marginBottom": 65,
+          "width": 280,
+        },
+      ]
+    }
+    width={280}
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "column",
+            "justifyContent": "center",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#fafafa",
+              "fontFamily": "Rubik-Regular",
+              "fontSize": 20,
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+              "height": 100,
+              "letterSpacing": 1,
+              "lineHeight": 31,
+              "textAlign": "center",
+            },
+          ]
+        }
+      >
+        Now, let’s register using your google account
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "marginBottom": 0,
+          "width": 312,
+        },
+      ]
+    }
+    width={312}
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "column",
+            "justifyContent": "center",
+          },
+        ]
+      }
+    >
+      <View
+        accessibilityIgnoresInvertColors={true}
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "borderRadius": 24,
+              "display": "flex",
+              "flexDirection": "row",
+              "height": 52,
+              "justifyContent": "center",
+              "width": 312,
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "testUri": "../../../src/assets/images/googleLogo.png",
+            }
+          }
+          style={
+            Array [
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              },
+              Object {
+                "height": undefined,
+                "width": undefined,
+              },
+              undefined,
+            ]
+          }
+        />
+        <Image
+          source={
+            Object {
+              "testUri": "../../../src/assets/images/googleLogo2.png",
+            }
+          }
+        />
+        <Text
+          style={
+            Array [
+              Object {
+                "alignContent": "center",
+                "alignItems": "center",
+                "color": "#141414",
+                "display": "flex",
+                "fontFamily": "Rubik-Regular",
+                "fontSize": 16,
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+                "justifyContent": "center",
+                "marginLeft": 15,
+              },
+            ]
+          }
+        >
+          Register with Google
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;

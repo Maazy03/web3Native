@@ -1,0 +1,226 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders AuthenticationOptions Component correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#141414",
+        "display": "flex",
+        "flexDirection": "column",
+        "height": "100%",
+        "justifyContent": "center",
+        "position": "relative",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "position": "absolute",
+          "top": 85,
+        },
+      ]
+    }
+    top={85}
+  >
+    < />
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "position": "absolute",
+          "top": 266,
+        },
+      ]
+    }
+    top={266}
+  >
+    < />
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "position": "absolute",
+          "top": 475,
+        },
+      ]
+    }
+    top={475}
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "column",
+            "justifyContent": "center",
+          },
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+      >
+        <View
+          accessibilityIgnoresInvertColors={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "borderRadius": 24,
+                "display": "flex",
+                "flexDirection": "row",
+                "height": 52,
+                "justifyContent": "center",
+                "width": 312,
+              },
+            ]
+          }
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../src/assets/images/ButtonFilled2.png",
+              }
+            }
+            style={
+              Array [
+                Object {
+                  "bottom": 0,
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                },
+                Object {
+                  "height": undefined,
+                  "width": undefined,
+                },
+                undefined,
+              ]
+            }
+          />
+          <Text
+            style={
+              Array [
+                Object {
+                  "alignContent": "center",
+                  "alignItems": "center",
+                  "color": "#fafafa",
+                  "display": "flex",
+                  "fontFamily": "Jost",
+                  "fontSize": 14,
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                  "justifyContent": "center",
+                },
+              ]
+            }
+          >
+            Create a new wallet
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "column",
+            "justifyContent": "center",
+          },
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+      >
+        <View
+          accessibilityIgnoresInvertColors={true}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "borderRadius": 24,
+                "display": "flex",
+                "flexDirection": "row",
+                "height": 52,
+                "justifyContent": "center",
+                "width": 312,
+              },
+            ]
+          }
+        >
+          <Image
+            source={
+              Object {
+                "testUri": "../../../src/assets/images/ButtonFilled2.png",
+              }
+            }
+            style={
+              Array [
+                Object {
+                  "bottom": 0,
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                },
+                Object {
+                  "height": undefined,
+                  "width": undefined,
+                },
+                undefined,
+              ]
+            }
+          />
+          <Text
+            style={
+              Array [
+                Object {
+                  "alignContent": "center",
+                  "alignItems": "center",
+                  "color": "#fafafa",
+                  "display": "flex",
+                  "fontFamily": "Jost",
+                  "fontSize": 14,
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                  "justifyContent": "center",
+                },
+              ]
+            }
+          >
+            I already have a wallet
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
